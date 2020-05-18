@@ -1,0 +1,12 @@
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.deps.json
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.runtimeconfig.json
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.runtimeconfig.dev.json
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.dll
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/bin/Debug/netcoreapp3.1/BankAccount.pdb
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.csprojAssemblyReference.cache
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.csproj.CoreCompileInputs.cache
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.AssemblyInfoInputs.cache
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.AssemblyInfo.cs
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.dll
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.pdb
+/Users/albert/_dev/riderproj/BankAccount/BankAccount/obj/Debug/netcoreapp3.1/BankAccount.genruntimeconfig.cache
